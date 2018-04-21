@@ -1,0 +1,10 @@
+{
+    "frameworks": {
+      "net46":{
+        "dependencies": {
+          "CsvHelper": "7.1.0",
+          "WindowsAzure.Storage": "7.2.1"
+        }
+      }
+     }
+  }
